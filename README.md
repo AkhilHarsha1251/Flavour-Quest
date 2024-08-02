@@ -1,30 +1,28 @@
-# **Flavor Quest**
+# Taste Explorer
 
----
+## Overview
+Taste Explorer is a web application that helps users find and explore a diverse range of recipes tailored to their dietary preferences. The application features a search function, filters for health preferences, and the ability to save favorite recipes. The user-friendly design adapts seamlessly to different devices, offering both light and dark theme options.
 
-## Project Overview
+## Features
+- Search for recipes by name or ingredient
+- Filter recipes by various health preferences
+- Save and manage favorite recipes
+- Responsive design for optimal use on all devices
+- Toggle between light and dark themes
 
-Flavor Quest is a responsive web application designed for finding delicious recipes tailored to your preferences. The project is built using HTML, CSS, and JavaScript, and it utilizes the Edamam API for fetching recipe data. With a user-friendly interface, it provides a variety of filters, allowing you to discover recipes based on specific criteria.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Google Fonts
+- Material Icons
+- Edamam API
 
-Additionally, it lets you save your favorite recipes for future reference, making it a convenient tool for both exploration and personal recipe collection.
+## How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/taste-explorer.git
 
-<details>
-  <summary><b>Table of Contents</b></summary>
-
-  - [UX Development](#ux-development)
-    - [Strategy](#strategy)
-    - [User Stories](#user-stories)
-  - [Visual Preview](#visual-preview)
-  - [Tech Stack](#tech-stack)
-  - [Local Deployment](#local-deployment)
-  - [Credits](#credits)
-  - [Acknowledgements](#acknowledgements)
-</details>
-<br>
-
-![Project Preview](assets/images/pic1.png)
-
----
 
 # UX Development
 
