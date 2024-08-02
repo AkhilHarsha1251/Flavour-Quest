@@ -19,9 +19,20 @@ Taste Explorer is a web application that helps users find and explore a diverse 
 - Edamam API
 
 ## How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/taste-explorer.git
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/AkhilHarsha1251/Taste-Explorer.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd directory name
+    ```
+
+3. **Get your own API keys** for the Edamam API referenced below and update them in the `api.js` file.
+
+4. **Open the `index.html` file in your preferred browser.**
 
 
 # UX Development
@@ -53,14 +64,6 @@ Taste Explorer is a web application that helps users find and explore a diverse 
 
 ---
 
-## Visual Preview
-
-https://github.com/Khus07hi/RecipeGenie-MealExplorer/assets/141567565/6a11bf5a-05ad-4b8a-9710-1abf0209f518
-
-
-
-https://github.com/Khus07hi/RecipeGenie-MealExplorer/assets/141567565/46c8c101-8736-4f28-a9c7-7139b4e6b7b4
-
 
 ## Tech Stack
 
@@ -74,19 +77,7 @@ https://github.com/Khus07hi/RecipeGenie-MealExplorer/assets/141567565/46c8c101-8
 
 To run locally, follow these steps:
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/RecipeGenie-MealExplorer.git
-    ```
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd RecipeGenie-MealExplorer
-    ```
-
-3. **Get your own API keys** for the Edamam API referenced below and update them in the `api.js` file.
-
-4. **Open the `index.html` file in your preferred browser.**
 
 ---
 
