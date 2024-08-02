@@ -97,5 +97,3 @@ A special thanks to the Edamam API for providing a rich database of recipes. Tha
 
 ---
 
-**&copy; 2023 Flavor Quest by Khushi**
-
